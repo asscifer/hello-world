@@ -1,2 +1,2 @@
 # hello-world
-potatoes
+potat-hoes
